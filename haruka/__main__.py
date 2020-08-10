@@ -24,7 +24,7 @@ PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players🃏
+I'm group manager bot and Anti-spam BY WOLVERINE AND TEAM 🃏
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
